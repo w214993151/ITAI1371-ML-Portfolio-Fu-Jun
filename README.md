@@ -1,2 +1,2 @@
-# Learn-in-HCC
-Assignments or Lab in Houston City College
+# Learn at HCC/ITAI-1371-ML
+Assignments and Labs of Machine Learning at Houston City College
