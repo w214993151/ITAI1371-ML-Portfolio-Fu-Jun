@@ -1,2 +1,3 @@
-# Learn at HCC/ITAI-1371-ML
-Assignments and Labs of Machine Learning at Houston City College
+# Lab_03: Machine Learning Workflow & Types of Learning
+Introduction: Explored supervised, unsupervised, and reinforcement learning with workflow visualization.
+Technologies: Python, scikit-learn
