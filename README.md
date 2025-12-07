@@ -8,5 +8,4 @@ About Me
 Name: Jun Fu
 
 Program: ITAI1371 – Introduction to Machine Learning
-
 AI Interests: Machine learning workflows, model evaluation, data processing, and hands-on ML tools.
